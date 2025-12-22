@@ -4,14 +4,11 @@ Movies :-
 2. https://sflix.ps/movie 
 3. https://www.sflix.to  
 
-Instagram :-  
-https://www.instagram.com/ 
+Instagram :- https://www.instagram.com/ 
 
-YouTube :- 
-https://www.youtube.com
+YouTube :- https://www.youtube.com
 
-Twitch :-
-https://www.twitch.tv/
+Twitch :- https://www.twitch.tv/
 
 stores :-
 1. https://www.apple.com/in/store
