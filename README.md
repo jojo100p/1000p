@@ -3,6 +3,7 @@ Movies :-
 1. https://sflix.ps/  
 2. https://sflix.ps/movie 
 3. https://www.sflix.to
+4. https://net20.cc/home
 
    
 Twitch :- https://www.twitch.tv/
