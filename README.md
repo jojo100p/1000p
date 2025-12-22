@@ -39,3 +39,7 @@ Browsers :-
 
 
 https://josporn.club/videos/
+
+https://www.javxxx.me/
+
+https://www.qorno.com/source/xhamster
