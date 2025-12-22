@@ -21,6 +21,8 @@ Browsers :-
 1. https://duckduckgo.com/
 2. https://www.google.com/?zx=1766394782561&no_sw_cr=1
 
+Music :- https://music.youtube.com/
+
 
 
 
@@ -39,7 +41,3 @@ Browsers :-
 
 
 https://josporn.club/videos/
-
-https://www.javxxx.me/
-
-https://www.qorno.com/source/xhamster
