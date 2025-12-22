@@ -8,6 +8,8 @@ Movies :-
    
 Twitch :- https://www.twitch.tv/
 
+tel :- https://t.me/+7IXoXXOm1JsyZTFl
+
 redit :- https://www.reddit.com/
 
 stores :-
