@@ -21,7 +21,7 @@ Browsers :-
 1. https://duckduckgo.com/
 2. https://www.google.com/?zx=1766394782561&no_sw_cr=1
 
-Music :- https://music.youtube.com/
+Music :- [https://music.youtube.com/](https://music.youtube.com/watch?v=TnfQPspfD3w&si=Ov6NauPBynUllwvt)
 
 
 
