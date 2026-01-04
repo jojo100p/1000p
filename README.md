@@ -16,7 +16,11 @@ stores :-
 Ai
 https://www.perplexity.ai/
 
-epic store 
+
+game store  
+
+https://store.steampowered.com
+
 https://store.epicgames.com/en-US
 
 epicsports
