@@ -3,6 +3,8 @@ Movies :-
 1. https://sflix.ps/  
 2. https://sflix.ps/movie 
 3. https://www.sflix.to
+4. https://ogomovies.cat/
+5.https://www.5movierulz.doctor/
    
 Twitch :- https://www.twitch.tv/
 
