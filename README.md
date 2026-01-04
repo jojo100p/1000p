@@ -15,3 +15,5 @@ stores :-
 
 Ai
 https://www.perplexity.ai/
+
+game https://www.crazygames.com/
