@@ -12,17 +12,3 @@ redit :- https://www.reddit.com/
 
 stores :-
 1. https://www.apple.com/in/store
-
-Browsers :-
-1. https://duckduckgo.com/
-
-
-
-
-
-
-
-
-
-
-https://zbporn.tv/videos/54663/found-this-on-the-web-12/
