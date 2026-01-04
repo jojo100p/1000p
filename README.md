@@ -16,6 +16,9 @@ stores :-
 Ai
 https://www.perplexity.ai/
 
+epicsports
+https://www.epicsports.me/?m=1
+
 game https://www.crazygames.com/
 
 music 
