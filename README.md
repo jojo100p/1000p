@@ -12,3 +12,6 @@ redit :- https://www.reddit.com/
 
 stores :-
 1. https://www.apple.com/in/store
+
+Ai
+https://www.perplexity.ai/
