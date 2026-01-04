@@ -20,3 +20,5 @@ game https://www.crazygames.com/
 
 music 
 https://m.soundcloud.com/
+
+https://open.spotify.com/
