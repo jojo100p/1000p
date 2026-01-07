@@ -1,43 +1,36 @@
 # 1000p
 Movies :- 
 1. https://sflix.ps/  
+
 2. https://sflix.ps/movie 
+
 3. https://www.sflix.to
+
 4. https://ogomovies.cat/
-5.https://www.5movierulz.doctor/
 
-youtube:- 
- https://www.genyt.net/
+5. https://ogomovies.cc/
 
-https://51.159.107.238/playlist?list=OLAK5uy_k14GH3XXsb5M_XpRb3TBmBUty-WMKI-EA&playnext=1&index=1&__cpo=aHR0cHM6Ly9tLnlvdXR1YmUuY29t
-   
-Twitch :- https://www.twitch.tv/
+6. https://www.genyt.net/
 
-Kick :- https://kick.com/
+7. https://www.twitch.tv/
 
-redit :- https://www.reddit.com/
+8. https://kick.com/
 
-stores :-
-1. https://www.apple.com/in/store
+9. https://www.reddit.com/
 
-Ai
-https://www.perplexity.ai/
+10.https://www.apple.com/in/store
 
+11.https://www.perplexity.ai/
 
-game store  
+12.https://store.steampowered.com
 
-https://store.steampowered.com
+13.https://store.epicgames.com/en-US
 
-https://store.epicgames.com/en-US
+14.https://www.epicsports.me/?m=1
 
-epicsports
-https://www.epicsports.me/?m=1
+15.https://www.crazygames.com/
 
-game https://www.crazygames.com/
+16.https://m.soundcloud.com/
 
-music 
-https://m.soundcloud.com/
-
-https://open.spotify.com/
 
 
