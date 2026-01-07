@@ -5,7 +5,9 @@ Movies :-
 3. https://www.sflix.to
 4. https://ogomovies.cat/
 5.https://www.5movierulz.doctor/
-6. https://www.genyt.net/
+
+youtube:- 
+ https://www.genyt.net/
    
 Twitch :- https://www.twitch.tv/
 
