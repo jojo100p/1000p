@@ -9,7 +9,7 @@ Movies :-
 youtube:- 
  https://www.genyt.net/
 
-https://51.159.107.238/?__cpo=aHR0cHM6Ly9tLnlvdXR1YmUuY29t
+https://51.159.107.238/playlist?list=OLAK5uy_k14GH3XXsb5M_XpRb3TBmBUty-WMKI-EA&playnext=1&index=1&__cpo=aHR0cHM6Ly9tLnlvdXR1YmUuY29t
    
 Twitch :- https://www.twitch.tv/
 
