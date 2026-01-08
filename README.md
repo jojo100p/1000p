@@ -14,7 +14,7 @@ Movies :-
 
 7. https://www.twitch.tv/
 
-8. https://kick.com/
+8. https://kick.com/category/just-chatting
 
 9. https://www.reddit.com/
 
