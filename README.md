@@ -36,5 +36,5 @@ Movies :-
 
 18.https://www.threads.com
 
-19.amazon.in
+19.https://www.amazon.in/
 
