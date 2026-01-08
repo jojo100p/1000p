@@ -38,10 +38,6 @@ Movies :-
 
 19.https://51.159.194.245/?__cpo=aHR0cHM6Ly9tLnlvdXR1YmUuY29t
 
-20.https://51.159.194.245/?ko=s&q=Youtube&ia=web&__cpo=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbQ
-
-21.https://github.com/fmhy/FMHY
-
-22.https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.in/&ved=2ahUKEwikxYq-3fmRAxXxr1YBHdYQLdMQFnoECBEQAQ&usg=AOvVaw11iWiBdQ4J9QF64so00kjl
+20.https://5
 
 
